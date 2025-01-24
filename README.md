@@ -1,7 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&text=Sowon%20Suh's%20page&fontSize=40&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=Sowon%20Suh's%20page&fontSize=40&fontColor=000000&animation=twinkling" width="100%" />
+
+<br>
+<div align= "center"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <div>
+<div style="margin: 0 auto; text-align: center;" align= "center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+</div>
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<br>
+<div align= "center"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Tech Stack ✨</h2> <div>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -15,12 +36,10 @@
 </div>
 
 <br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
-<br>
 
 <!--
 <h3 align="center">📚 Studying 📚</h3>
@@ -29,9 +48,9 @@
 </div>
 -->
 
-<br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<br>
+<div align= "center"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠 Tools 🛠</h2> <div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -44,24 +63,28 @@
 </div>
 
 <br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
-<br><br>
+<br>
+<div align= "center"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats 🏅</h2> <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PleaseErwin&layout=compact&include_forks=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PleaseErwin&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PleaseErwin&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+</div>
 
 <br>
+<div align= "center"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📃 Projects 📃</h2> <div>
 
 | No   | Project                                                       | Description                                                           | Used Skills                  | Links             |
 |------|---------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------|-------------------|
-| 1    | 서울시 공원 정보 검색 및 관리 시스템                           | MVC 패턴 구조를 JDBC를 통해 mysql과 연결하여 CRUD기능 구현             | Java, STS, Mysql, Dbeaver    |                   |
-| 2    | SQL 정규표현식 학습 도구                                      | 고객의 카드 사용 패턴 데이터를 활용하여 다양한 SQL 정규표현식 문제 제공 | Mysql, Dbeaver               |                   |
-| 3    | 환자 발생 추이를 실시간으로 추적할 수 있는 데이터 처리 시스템  | mysql에서 ELK로 이어지는 파이프라인을 구축하여 데이터 저장 및 시각화    | Mysql, ElasticSearch         |                   |
-| 4    | 리눅스 ELK 구축                                               | 데이터가 수집된 기준 날짜 또는 시간.                                   | Mysql, ElasticSearch         |                   |
+| 1    | 서울시 공원 정보 검색 및 관리 시스템                           | MVC 패턴 구조를 JDBC를 통해 mysql과 연결하여 CRUD기능 구현             | Java, STS, Mysql, Dbeaver    | Click             |
+| 2    | SQL 정규표현식 학습 도구                                      | 고객의 카드 사용 패턴 데이터를 활용하여 다양한 SQL 정규표현식 문제 제공 | Mysql, Dbeaver               | Click             |
+| 3    | 환자 발생 추이를 실시간으로 추적할 수 있는 데이터 처리 시스템  | mysql에서 ELK로 이어지는 파이프라인을 구축하여 데이터 저장 및 시각화    | Mysql, ElasticSearch,        | Click             |
+| 4    | 리눅스 ELK 구축                                               | 대규모 카드 내역 실데이터를 활용하여 Ubuntu에 ELK를 설치하고 시각화     | Mysql, ElasticSearch         | Click              |
 
 
 
