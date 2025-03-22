@@ -72,8 +72,9 @@
 | 2 | SQL 정규표현식 학습 도구 | 고객의 카드 사용 패턴 데이터를 활용하여 다양한 SQL 정규표현식 문제 제공 | Mysql, Dbeaver | [Link](https://github.com/PleaseErwin/FISA-mini-project02) |
 | 3 | 환자 발생 추이를 실시간으로 추적할 수 있는 데이터 처리 시스템 | mysql에서 ELK로 이어지는 파이프라인을 구축하여 KDX의 COVID-19 시/도 발생 현황 누적 데이터 저장 및 시각화 | ELK, Filebeat, Mysql, Dbeaver | [Link](https://github.com/PleaseErwin/FISA-mini-project03) |
 | 4 | 리눅스 ELK 구축과 카드데이터 시각화 | Ubuntu에 ELK를 설치하고 대규모 카드 소비 내역 실데이터를 저장 및 시각화 | ELK, Mysql | [Link](https://github.com/PleaseErwin/FISA-mini-project04) |
-| 5 | 50~60대를 타겟으로 한 생활 어플 꿀팁 공유 및 커뮤니티 웹 플랫폼 | CRUD를 기반으로 유튜브/쿠팡/당근마켓/카카오톡 등 다양한 플랫폼의 유용한 활용 팁을 공유하고 이에 관해 토론 가능 | HTML, Servlet, JSP, Tomcat, Session | [Link](https://github.com/PleaseErwin/FISA-mini-project05) |
+| 5 | 50~60대를 타겟으로 한 생활 어플 꿀팁 공유 커뮤니티 | CRUD를 기반으로 유튜브/쿠팡/당근마켓/카카오톡 등 다양한 어플의 유용한 활용 팁을 공유하고 이에 관해 토론 가능한 웹 플랫폼 | HTML, Servlet, JSP, Tomcat, Session | [Link](https://github.com/PleaseErwin/FISA-mini-project05) |
 | 6 | mysql DB Sharding 구현 | 분산형 데이터베이스 기술 중 샤딩을 도입해서 DB 실행 속도를 높이고 효율적으로 자원 관리 | Mysql, Dbeaver, Shell Script | [Link](https://github.com/PleaseErwin/FISA-mini-project06) |
+| 7 | Docker 환경에서의 springboot-mysql 컨테이너 관리 및 고도화 | 쉘 스크립트와 crontab을 이용해 컨테이너 실행 및 DB 데이터의 백업을 자동화하고, mysql DB의 이중화를 통한 고가용성 구현  | Docker, Java, Mysql, Shell Script | [Link](https://github.com/PleaseErwin/FISA-mini-project07) |
 
 
 
